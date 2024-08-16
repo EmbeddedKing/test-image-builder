@@ -5,8 +5,8 @@ git/
 *.host
 release
 .project
-*linux*/
-*uboot*/
+#*linux*/
+#*uboot*/
 build/
 history/
 rkbin/
